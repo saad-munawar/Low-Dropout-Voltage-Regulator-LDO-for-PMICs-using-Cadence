@@ -1,0 +1,1 @@
+# Low-Dropout-Voltage-Regulator-LDO-for-PMICs-using-Cadence
